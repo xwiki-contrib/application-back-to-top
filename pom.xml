@@ -29,7 +29,7 @@
   </parent>
   <groupId>org.xwiki.contrib</groupId>
   <artifactId>application-back-to-top</artifactId>
-  <version>1.3</version>
+  <version>1.4-SNAPSHOT</version>
   <name>Back To Top Application</name>
   <packaging>xar</packaging>
   <description>A button for scrolling back to top, adapted to Flamingo theme and customizable</description>
@@ -43,7 +43,7 @@
     <connection>scm:git:git://github.com/xwiki-contrib/application-back-to-top.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/application-back-to-top.git</developerConnection>
     <url>https://github.com/xwiki-contrib/application-back-to-top</url>
-    <tag>application-back-to-top-1.3</tag>
+    <tag>HEAD</tag>
   </scm>
   <developers>
     <developer>
